@@ -1,1 +1,2 @@
 Hariket Sukesh Kumar Sheth,https://linkedin.com/in/hariketsheth,https://techacks-2.devpost.com/,hariketsheth
+Add your Name,LinkedIn profile,DevPost Project Submission Link,Github Username
